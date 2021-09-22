@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.GithubRepoViewer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/shark</item>
+        <item name="colorPrimaryDark">@color/shark</item>
+        <item name="colorAccent">@color/shark</item>
+    </style>
+
+    <style name="Theme.GithubRepoViewer.SplashScreen" parent="Theme.GithubRepoViewer">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+</resources>

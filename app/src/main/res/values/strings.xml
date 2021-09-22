@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github repo viewer</string>
+    <string name="send_link">send link</string>
+    <string name="owner_title">owner:</string>
+    <string name="id_title">id:</string>
+    <string name="image_view">Image view</string>
+</resources>
